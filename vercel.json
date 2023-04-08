@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "name": "hellow-world-opal.vercel.app",
+    "name": "main.js",
     "builds": [
       {
         "src": "app.js",
